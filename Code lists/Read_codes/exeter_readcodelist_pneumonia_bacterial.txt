@@ -1,0 +1,137 @@
+readcode	term_readcode
+H21..	Lobar (pneumococcal) pneumonia
+H22..	Other bacterial pneumonia
+H220.	Pneumonia due to Klebsiella pneumoniae
+H221.	Pneumonia due to Pseudomonas
+H222.	Pneumonia due to haemophilus influenzae
+H223.	Pneumonia due to Streptococcus
+H2230	Pneumonia due to streptococcus, group B
+H224.	Pneumonia due to staphylococcus
+H22y.	Pneumonia due to other specified bacteria
+H22y0	E.coli pneumonia
+H22y1	Pneumonia due to proteus
+H22y2	Pneumonia - Legionella
+H22yz	Pneumonia due to bacteria NOS
+H22z.	Bacterial pneumonia NOS
+H23..	Pneumonia due to other specified organisms
+H231.	Pneumonia due to Mycoplasma pneumoniae
+H232.	Pneumonia due to pleuropneumonia like organisms
+H233.	Chlamydial pneumonia
+H23z.	Pneumonia due to specified organism NOS
+H24..	Pneumonia with infectious diseases EC
+H24y.	Pneumonia with other infectious diseases EC
+H24y0	Pneumonia with actinomycosis
+H24yz	Pneumonia with other infectious diseases EC NOS
+H24z.	Pneumonia with infectious diseases EC NOS
+H25..	Bronchopneumonia due to unspecified organism
+H26..	Pneumonia due to unspecified organism
+H260.	Lobar pneumonia due to unspecified organism
+H28..	Atypical pneumonia
+H2B..	Community acquired pneumonia
+Hyu0A	[X]Other bacterial pneumonia
+Hyu0B	[X]Pneumonia due to other specified infectious organisms
+Hyu0H	[X]Other pneumonia, organism unspecified
+A3BXB	Klebsiella pneumoniae/cause/disease classifd/oth chapters
+AyuK9	[X]Mycoplasma pneumoniae [PPLO]cause/dis classifd/oth chaptr
+H22yX	Pneumonia due to other aerobic gram-negative bacteria
+H241.	Pneumonia with cytomegalic inclusion disease
+H242.	Pneumonia with ornithosis
+H244.	Pneumonia with tularaemia
+H245.	Pneumonia with anthrax
+H247.	Pneumonia with other systemic mycoses
+H24y1	Pneumonia with nocardiasis
+H24y3	Pneumonia with Q-fever
+H24y4	Pneumonia with salmonellosis
+H24y6	Pneumonia with typhoid fever
+Hyu09	[X]Pneumonia due to other aerobic gram-negative bacteria
+Hyu0C	[X]Pneumonia in bacterial diseases classified elsewhere
+Hyu0G	[X]Pneumonia in other diseases classified elsewhere
+H2600	Lung consolidation
+H261.	Basal pneumonia due to unspecified organism
+H262.	Postoperative pneumonia
+H263.	Pneumonitis
+H2C..	Hospital acquired pneumonia
+H2...	Pneumonia and influenza
+XE0ZF	Pneumonia and influenza &/or pneumonia
+H5302	Gangrenous pneumonia
+A0222	Salmonella pneumonia
+A116.	Tuberculous pneumonia
+AyuKA	[X]Klebsiella pneumoniae/cause/disease classifd/oth chapters
+H22yx	Pneumonia due to other aerobic gram-negative bacteria
+H5303	Abscess of lung with pneumonia
+H56y1	Interstitial pneumonia
+H571.	Rheumatic pneumonia
+A3A4.	Legionella
+H20y0	Severe acute respiratory syndrome
+H22y3	Pneumonia due to Gram negative bacteria
+H230.	Pneumonia due to Eaton's agent
+A730.	Ornithosis with pneumonia
+H2F0.	Influenza with pneumonia due to seasonal influenza virus
+X100E	Pneumonia
+X100F	Chest infection - pneumonia organism OS
+X100G	Atypical pneumonia
+X100H	Bacterial pneumonia
+X100J	Pneumococcal pneumonia
+X100L	Meningococcal pneumonia
+X100M	Bilateral bronchopneumonia
+X100N	Chlamydial pneumonia
+X100X	Haemorrhagic pneumonia
+X100Y	Mycobacterial pneumonia
+X100d	Rickettsial pneumonia
+X73GQ	Diplococcus pneumoniae
+XE0YH	Pneumococcal lobar pneumonia
+XE0YI	Pneumonia with infectious diseases EC
+XE0YJ	Bronchopneumonia due to unspecified organism
+XE0ZH	Lobar -pneumococcal -pneumonia
+XM0rv	Pneumonia NOS
+XSCET	Bacterial infection due to Klebsiella pneumoniae
+Xa0Y7	Non-tuberculous mycobacterial pneumonia
+Xa0lY	Lobar pneumonia
+Xa7nL	Basal pneumonia
+Xa7nM	LLL - Left lower lobe pneumonia
+Xa7nN	RLL - Right lower lobe pneumonia
+Xa7nP	LUZ - Left upper zone pneumonia
+Xa7nT	RMZ - Right middle zone pneumonia
+Xa7nU	RUL - Right upper lobe pneumonia
+Xa7u5	Lung consolidation
+XaBE9	Basal pneumonia due to unspecified organism
+XaBfJ	Secondary bacterial pneumonia
+XaDsa	Infective pneumonia
+XaIzV	Severe acute respiratory syndrome
+XaJEl	Bilateral pneumonia
+XaL2O	Pneumonitis, unspecified
+XaYYu	Pneumonia due to human metapneumovirus
+XaZ1k	Community acquired pneumonia
+XaZ1l	Hospital acquired pneumonia
+XaeVO	Pneumonia due to Gram negative bacteria
+Xagd5	Suspected Legionella pneumonia
+XagdH	Suspected SARS (severe acute respiratory syndrome)
+4JUK.	Mycoplasma pneumoniae detected
+A3BXA	Mycoplasma pneumoniae [PPLO] cause/dis classifd/oth chaptr
+A3By.	Other specified bacterial infection
+A3BX4	Streptococcus pneumoniae as the cause of diseases classified to other chapters
+A3By4	Pleuropneumonia-like organism (PPLO) infection
+H060A	Acute bronchitis due to mycoplasma pneumoniae
+H5016	Pyothorax
+H5000	Pyothorax with bronchocutaneous fistula
+H5012	Pyothorax
+H5014	Pyothorax
+X1009	Acute bronchitis due to mycoplasma pneumoniae
+X100O	Neonatal chlamydial pneumonia
+X100P	Fetal pneumonia
+X100Q	Fetal pneumonia
+X100a	Neonatal pneumonia
+X73KI	Klebsiella aerogenes biovar pneumoniae
+X73KJ	Klebsiella pneumoniae
+X73KK	Klebsiella pneumoniae subsp ozaenae
+X73KL	Klebsiella pneumoniae subsp pneumoniae
+X73KM	Klebsiella pneumoniae subsp rhinoscleromatis
+X73RC	Chlamydia pneumoniae
+X73UL	PPLO - Pleuropneumonia-like organism
+X73UT	Mycoplasma pneumoniae
+XE0TE	Legionnaires disease
+XE2wM	Pyothorax
+XaCMc	Septicaemia due to streptococcus pneumoniae
+XaPOo	Mycoplasma pneumoniae detected
+XaYbj	Sepsis due to Streptococcus pneumoniae
+XaDtl	Legionnaire's disease

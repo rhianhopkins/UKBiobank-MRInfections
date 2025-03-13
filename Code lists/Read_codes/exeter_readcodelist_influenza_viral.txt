@@ -1,0 +1,86 @@
+readcode	term_readcode
+H27z.	(Influenza like illness) or (influenza NOS)
+XE0ZJ	(Influenza NOS) or (influenza-like illness)
+Hyu04	[X]Flu+oth respiratory manifestations,'flu virus identified
+Hyu07	[X]Influenza with other manifestations, virus not identified
+Hyu06	[X]Influenza+oth respiratory manifestatns,virus not identifd
+Hyu05	[X]Influenza+other manifestations,influenza virus identified
+H060C	Acute bronchitis due to parainfluenza virus
+G5203	Acute myocarditis - influenzal
+H29..	Avian influenza
+XaMih	Avian influenza
+A830.	Balkan influenza
+H270.	Chest infection- influenza with pneumonia
+XaC1s	Encephalitis due to influenza
+XaEGX	Encephalitis due to influenza-specific virus not identified
+F0308	Encephalitis due to influenza-specific virus not identified
+XaC2H	Encephalitis due to influenza-virus identified
+F030A	Encephalitis due to influenza-virus identified
+Xa352	Flu-like illness
+XM0s0	Flu-like illness NOS
+X73lg	Genus: Influenza virus A and B
+X73lj	Genus: Influenza virus C
+X73lk	Genus: Influenza virus C
+X73lJ	Genus: Parainfluenza virus group
+4JUF.	Human parainfluenza virus detected
+XaPOk	Human parainfluenza virus detected
+H27..	Influenza
+H2A..	Influenza A (H1N1) swine flu
+4J3L.	Influenza A virus H1N1 subtype detected
+XaQVd	Influenza A virus H1N1 subtype detected
+4JU4.	Influenza A virus, other or untyped strain detected
+XaPIR	Influenza A virus, other or untyped strain detected
+4JU5.	Influenza B virus detected
+XaPIS	Influenza B virus detected
+XaQQp	Influenza due to Influenza A virus subtype H1N1
+XaeVL	Influenza due to pandemic influenza virus
+H2E..	Influenza due to pandemic influenza virus
+XaeVM	Influenza due to seasonal influenza virus
+H2F..	Influenza due to seasonal influenza virus
+XaeVK	Influenza due to zoonotic influenza virus
+H2D..	Influenza due to zoonotic influenza virus
+4JU0.	Influenza H1 virus detected
+XaPIN	Influenza H1 virus detected
+XaPIO	Influenza H2 virus detected
+4JU1.	Influenza H2 virus detected
+4JU2.	Influenza H3 virus detected
+XaPIP	Influenza H3 virus detected
+4JU3.	Influenza H5 virus detected
+XaPIQ	Influenza H5 virus detected
+XE0YK	Influenza NOS
+X73lf	Influenza virus
+X73lh	Influenza virus A
+X73li	Influenza virus B
+H2700	Influenza with bronchopneumonia
+H27y0	Influenza with encephalopathy
+H27y1	Influenza with gastrointestinal tract involvement
+H2710	Influenza with laryngitis
+H27y.	Influenza with other manifestations
+H2Fz.	Influenza with other manifestations due to seasonal influenza virus
+H27yz	Influenza with other manifestations NOS
+H271.	Influenza with other respiratory manifestation
+H2Fy.	Influenza with other respiratory manifestation due to seasonal influenza virus
+H2711	Influenza with pharyngitis
+XaeVN	Influenza with pneumonia due to seasonal influenza virus
+H2F0.	Influenza with pneumonia due to seasonal influenza virus
+H270z	Influenza with pneumonia NOS
+H2701	Influenza with pneumonia, influenza virus identified
+H271z	Influenza with respiratory manifestations NOS
+XM0rz	Influenza-like illness
+16L..	Influenza-like symptoms
+XaIBK	Influenza-like symptoms
+Xa8VO	Parainfluenza virus
+X73lK	Parainfluenza virus type 1
+X73lL	Parainfluenza virus type 2
+X73lM	Parainfluenza virus type 3
+X73lN	Parainfluenza virus type 4
+H2...	Pneumonia and influenza
+H202.	Pneumonia due to parainfluenza virus
+1W0..	Possible influenza A virus H1N1 subtype
+XaQVc	Possible influenza A virus H1N1 subtype
+X001O	Post-influenza encephalitis
+XaQSm	Suspected influenza A virus subtype H1N1 infection
+1J72.	Suspected influenza A virus subtype H1N1 infection
+Y0b97	Swine influenza
+XaR6o	Telephne consultatn suspected influenza A virus subtype H1N1
+9N310	Telephone consultation for suspected influenza A virus subtype H1N1

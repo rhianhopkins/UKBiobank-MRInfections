@@ -1,0 +1,38 @@
+readcode	term_readcode
+AB211	Candidiasis of vagina
+AB220	Penile candidiasis (thrush)
+AB210	Candidiasis of vulva
+AB22.	Other urogenital candidiasis
+AB21.	Candidal vulvovaginitis
+AB21z	Candidiasis cervix
+K172.	Candidal urethritis
+AB22z	Other urogenital candida NOS
+AB2y4	Anogenital candidiasis
+A994.	Nonspecific urethritis
+K4212	Vulvovaginitis unspecified
+K421.	Vaginitis and vulvovaginitis
+K421z	Vaginitis and vulvovaginitis NOS
+K4216	Vulvovaginitis in diseases EC
+4K34.	Cervical smear - candida
+AB221	Anal thrush
+K271.	Balanitis
+K2710	Balanitis
+K4211	Vulvitis unspecified
+K4215	Vulvitis in diseases EC
+K4218	Subacute and chronic vulvitis
+K421A	Acute vulvitis
+Kyu6A	[X]Balanitis in diseases classified elsewhere
+X407N	Candidiasis of cervix
+X4083	Vulvitis
+X4084	Acute vulvitis
+X70Qj	Candida infection of genital region
+X70Qk	Anogenital candida infection
+X70Qn	Penile candida
+X70Qo	Anal thrush
+XE0SH	Candidal vulvovaginitis NOS
+XE0SI	Candidal balanitis
+XE0SJ	Perianal thrush
+XE0eC	Balanitis
+XE0eT	Vulvitis unspecified
+Xa16P	Infective vulvitis
+XaBjI	Infective balanitis

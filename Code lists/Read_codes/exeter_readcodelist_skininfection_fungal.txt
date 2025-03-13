@@ -1,0 +1,78 @@
+readcode	term_readcode
+AB0..	Dermatophytosis including tinea or ringworm
+AB00.	Dermatophytosis of scalp or beard
+AB000	Dermatophytosis of scalp
+AB001	Dermatophytosis of beard
+AB00z	Dermatophytosis of scalp or beard NOS
+AB01.	Dermatophytosis of nail
+AB02.	Dermatophytosis of hand
+AB03.	Dermatophytosis of groin and perianal area
+AB030	Dermatophytosis of groin
+AB031	Dermatophytosis of the perianal area
+AB03z	Dermatophytosis of groin and perianal area NOS
+AB04.	Dermatophytosis of foot
+AB05.	Dermatophytosis of the body
+AB06.	Deep seated dermatophytosis
+AB0y.	Other specified dermatophytosis
+AB0z.	Dermatophytosis NOS
+AB1..	Dermatophytosis other and unspecified
+AB1X.	Superficial mycosis, unspecified
+AB23.	Candidiasis of skin and nails
+AB23z	Candidiasis of skin and nails NOS
+AB332	Cutaneous coccidioidomycosis
+AB500	Cutaneous blastomycosis
+AB510	Mucocutaneous-lymphangitic paracoccidioidomycosis
+AB610	Cutaneous sporotrichosis
+AB620	Cutaneous chromomycosis
+AB622	Subcutaneous phaeomycotic abscess and cyst
+AB655	Cutaneous cryptococcosis
+AB673	Cutaneous mucormycosis
+AyuE1	[X]Dermatophytosis, unspecified
+AyuE2	[X]Other specified superficial mycoses
+AyuE3	[X]Superficial mycosis, unspecified
+Q4072	Neonatal candidiasis of other skin
+AB032	Dermatophytosis of groin and pubic area
+AB232	Candidiasis of nail
+AB233	Candidiasis of nail fold
+X501X	Cutaneous botryomycosis
+X502P	Pityrosporum infection of skin
+X502Q	Pityrosporum folliculitis
+X502V	Scytalidium dimidiatum infection of skin
+X502W	Scytalidium hyalinum infection of skin
+X502a	Primary cutaneous blastomycosis
+X502l	Subcutaneous phycomycosis
+X502o	Systemic fungal infection affecting skin
+X70IW	Primary cutaneous actinomycosis
+X70QJ	Cutaneous mycosis
+X70QM	Suppurative dermatophytosis
+X70QP	Dermatophytosis of groin and pubic area
+X70Qr	Candidiasis of skin
+X70RD	Cutaneous cryptococcosis
+X70RG	Cutaneous coccidioidomycosis
+X70RH	Subcutaneous coccidioidomycosis
+X70Rh	Disseminated cutaneous blastomycosis
+X70Rj	Cutaneous lobomycosis
+X70Rl	Chronic coalescent cutaneous lobomycosis
+X70Rt	Disseminated cutaneous sporotrichosis
+X70Rw	Disseminated Trichosporon infection involving skin
+X70Rz	Cutaneous chromoblastomycosis
+X70S1	Cutaneous chromoblastomycotic abscess
+X70S2	Lymphocutaneous chromoblastomycosis
+X70S9	Cutaneous hyalohyphomycosis
+X70SF	Cutaneous mucormycosis
+X70SG	Necrotising cutaneous mucormycosis
+X70SH	Mucormycotic gangrenous cellulitis
+X70SO	Cutaneous basidiobolomycosis
+XE0S9	Dermatophytosis
+XE0SA	Dermatophytosis of scalp or beard
+XE0SB	Dermatophytosis of nail
+XE0SC	Dermatophytosis of groin and perianal area
+XE0SD	Dermatophytosis of the body
+XE0SE	Deep seated dermatophytosis
+XE0SK	Candida infection of flexural skin
+XE0TC	(Actinomycosis (& [infections]) or (erythrasma)
+XE0U8	(Dermatophytosis &/or tinea &/or ringworm) or (fungal infections) or (mycoses)
+XE0UE	(Other dermatophytosis) or (blastomycosis)
+XE2uM	Dermatophytosis of foot
+XSD4A	Superficial mycosis
+Xa97l	Dermatophytosis of the trunk

@@ -1,0 +1,172 @@
+readcode	term_readcode	subgroup
+XE0Yn	(Acute nasopharyngitis) or (common cold) or (acute coryza) or (acute rhinitis) or (sniffles) or (snuffles)	upper respiratory
+XE0Yz	(Chronic pharyngitis/nasopharyngitis) or (catarrh) or (congested nose)	upper respiratory
+Hyu11	[X]Acute bronchiolitis due to other specified organisms	lower respiratory
+Hyu10	[X]Acute bronchitis due to other specified organisms	lower respiratory
+Hyu01	[X]Acute pharyngitis due to other specified organisms	upper respiratory
+Hyu02	[X]Acute tonsillitis due to other specified organisms	upper respiratory
+Hyu0.	[X]Acute upper respiratory infections	upper respiratory
+Hyu04	[X]Flu+oth respiratory manifestations,'flu virus identified	not specific
+Hyu1.	[X]Other acute lower respiratory infections	lower respiratory
+Hyu03	[X]Other acute upper respiratory infections of multiple sites	upper respiratory
+Hyu08	[X]Other viral pneumonia	lower respiratory
+Hyu0D	[X]Pneumonia in viral diseases classified elsewhere	lower respiratory
+X1007	Acute bacterial bronchitis	lower respiratory
+H061.	Acute bronchiolitis	lower respiratory
+X100D	Acute bronchiolitis due to adenovirus	lower respiratory
+H0617	Acute bronchiolitis due to human metapneumovirus	lower respiratory
+XaYYt	Acute bronchiolitis due to human metapneumovirus	lower respiratory
+H0616	Acute bronchiolitis due to other specified organisms	lower respiratory
+H0615	Acute bronchiolitis due to respiratory syncytial virus	lower respiratory
+H061z	Acute bronchiolitis NOS	lower respiratory
+H0612	Acute bronchiolitis with bronchospasm	lower respiratory
+H060.	Acute bronchitis	lower respiratory
+XE0Xr	Acute bronchitis	lower respiratory
+H06..	Acute bronchitis and bronchiolitis	lower respiratory
+H060B	Acute bronchitis due to coxsackievirus	lower respiratory
+H060F	Acute bronchitis due to echovirus	lower respiratory
+H060C	Acute bronchitis due to parainfluenza virus	lower respiratory
+H060D	Acute bronchitis due to respiratory syncytial virus	lower respiratory
+H060E	Acute bronchitis due to rhinovirus	lower respiratory
+H060z	Acute bronchitis NOS	lower respiratory
+H06z.	Acute bronchitis or bronchiolitis NOS	lower respiratory
+H0610	Acute capillary bronchiolitis	lower respiratory
+H0402	Acute catarrhal laryngitis	upper respiratory
+H0604	Acute croupous bronchitis	lower respiratory
+H5103	Acute dry pleurisy	lower respiratory
+H043.	Acute epiglottitis (non strep)	upper respiratory
+H043z	Acute epiglottitis NOS	upper respiratory
+H0431	Acute epiglottitis with obstruction	upper respiratory
+H0430	Acute epiglottitis without obstruction	upper respiratory
+H3122	Acute exacerbation of chronic bronchitis	lower respiratory
+H0613	Acute exudative bronchiolitis	lower respiratory
+X00mH	Acute herpes simplex pharyngitis	upper respiratory
+X00mI	Acute herpes zoster pharyngitis	upper respiratory
+XaDtB	Acute infective bronchitis	lower respiratory
+XaDth	Acute infective tracheobronchitis	lower respiratory
+H040.	Acute laryngitis	upper respiratory
+H04..	Acute laryngitis and tracheitis	upper respiratory
+Xa05b	Acute laryngitis and tracheitis	upper respiratory
+H04z.	Acute laryngitis and tracheitis NOS	upper respiratory
+H040z	Acute laryngitis NOS	upper respiratory
+H050.	Acute laryngopharyngitis	upper respiratory
+H042.	Acute laryngotracheitis	upper respiratory
+XE0Xo	Acute laryngotracheitis	upper respiratory
+H042z	Acute laryngotracheitis NOS	upper respiratory
+H0421	Acute laryngotracheitis with obstruction	upper respiratory
+H0420	Acute laryngotracheitis without obstruction	upper respiratory
+Xa0lW	Acute laryngotracheobronchitis	upper respiratory
+H062.	Acute lower respiratory tract infection	lower respiratory
+H06z1	Acute lower respiratory tract infection	lower respiratory
+XE0Xt	Acute lower respiratory tract infection	lower respiratory
+H0601	Acute membranous bronchitis	lower respiratory
+H00..	Acute nasopharyngitis	upper respiratory
+X00kw	Acute nasopharyngitis	upper respiratory
+XE0Xl	Acute nasopharyngitis	upper respiratory
+H0432	Acute obstructive laryngitis	upper respiratory
+H0400	Acute oedematous laryngitis	upper respiratory
+H02..	Acute pharyngitis	upper respiratory
+XE0Xn	Acute pharyngitis	upper respiratory
+XE0Yr	Acute pharyngitis	upper respiratory
+H02z.	Acute pharyngitis NOS	upper respiratory
+H0403	Acute phlegmonous laryngitis	upper respiratory
+H0602	Acute pseudomembranous bronchitis	lower respiratory
+H0603	Acute purulent bronchitis	lower respiratory
+XE0Yv	Acute resp. infection NOS	not specific
+H0z..	Acute respiratory infection NOS	not specific
+H0...	Acute respiratory infections	not specific
+XE0Yl	Acute respiratory infections	not specific
+H0406	Acute suppurative laryngitis	upper respiratory
+H041.	Acute tracheitis	lower respiratory
+H041z	Acute tracheitis NOS	lower respiratory
+H0411	Acute tracheitis with obstruction	lower respiratory
+H0410	Acute tracheitis without obstruction	lower respiratory
+H0605	Acute tracheobronchitis	lower respiratory
+H0401	Acute ulcerative laryngitis	upper respiratory
+X1002	Acute upper respiratory infection	upper respiratory
+H051.	Acute upper respiratory tract infection	upper respiratory
+X100C	Acute viral bronchiolitis	lower respiratory
+X100B	Acute viral bronchitis	lower respiratory
+H060w	Acute viral bronchitis unspecified	lower respiratory
+H040w	Acute viral laryngitis unspecified	upper respiratory
+Xa86D	Acute viral laryngotracheitis	upper respiratory
+H024.	Acute viral pharyngitis	upper respiratory
+H036.	Acute viral tonsillitis	upper respiratory
+XM1QX	Acute wheezy bronchitis	lower respiratory
+XE0Yt	Acute: [bronchitis]/[chest infections]/[tracheobronchitis]	lower respiratory
+H200.	Adenoviral pneumonia	lower respiratory
+X00n9	Adult acute epiglottitis and supraglottitis	upper respiratory
+1789.	Asthma trigger - respiratory infection	lower respiratory
+XaLIm	Asthma trigger - respiratory infection	lower respiratory
+XSDOK	Bronchiolitis	lower respiratory
+XaDtP	Bronchitis	lower respiratory
+H30z.	Bronchitis NOS	lower respiratory
+H30..	Bronchitis unspecified	lower respiratory
+XE0YL	Bronchitis unspecified	lower respiratory
+H07..	Chest cold	upper respiratory
+H06z0	Chest infection	lower respiratory
+X1006	Chest infection - unspecified bronchitis	lower respiratory
+XE0Xs	Chest infection NOS	lower respiratory
+H24..	Chest infection with infectious disease EC	lower respiratory
+H3y0.	Chronic obstruct pulmonary dis with acute lower resp infectn	lower respiratory
+H044.	Croup	upper respiratory
+XaKyZ	Croup	upper respiratory
+0AZ3.	Croupier	upper respiratory
+A7850	Cytomegaloviral pneumonitis	lower respiratory
+H241.	Cytomegaloviral pneumonitis	lower respiratory
+X00mJ	Enteroviral lymphonodular pharyngitis	upper respiratory
+A740.	Enteroviral vesicular pharyngitis	upper respiratory
+H27z.	Flu like illness	not specific
+XM0s0	Flu-like illness NOS	not specific
+X00mL	Glandular fever pharyngitis	upper respiratory
+XaPOk	Human parainfluenza virus detected	not specific
+X1004	Infection of lower respiratory tract	lower respiratory
+XM1QV	Infection of lower respiratory tract and mediastinum	lower respiratory
+Xa2o8	Infection of the upper respiratory tract	lower respiratory
+XaDuG	Infective pharyngitis	upper respiratory
+XM1QS	Laryngotracheitis	upper respiratory
+H301.	Laryngotracheobronchitis	lower respiratory
+X70Ln	Lymphonodular coxsackie pharyngitis	upper respiratory
+H05..	Other acute upper respiratory infections	upper respiratory
+H0y..	Other specified acute respiratory infections	not specific
+H05y.	Other upper respiratory infections of multiple sites	upper respiratory
+X00n8	Paediatric acute epiglottitis and supraglottitis	upper respiratory
+XaMB6	Parainfluenza type 1 nucleic acid detection	not specific
+XaMB7	Parainfluenza type 2 nucleic acid detection	not specific
+XaMB8	Parainfluenza type 3 nucleic acid detection	not specific
+H202.	Parainfluenzal pneumonia	lower respiratory
+X00mG	Pharyngitis	upper respiratory
+H055.	Pharyngolaryngitis	upper respiratory
+H052.	Pharyngotracheitis	upper respiratory
+H51..	Pleurisy	lower respiratory
+H263.	Pneumonitis, unspecified	lower respiratory
+XaL2O	Pneumonitis, unspecified	lower respiratory
+H5014	Purulent pleurisy	lower respiratory
+H340.	Recurrent bronchiectasis	lower respiratory
+H06z2	Recurrent chest infection	lower respiratory
+XaBM8	Recurrent chest infection	lower respiratory
+H054.	Recurrent upper respiratory tract infection	upper respiratory
+H58y5	Respiratory bronchiolitis associated interstitial lung dis	lower respiratory
+XaXlE	Respiratory bronchiolitis associated interstitial lung disease	lower respiratory
+H5yy.	Respiratory infection NOS	not specific
+A79A.	Respiratory syncytial virus infection	lower respiratory
+Xa0BK	RSV - Respiratory syncytial virus infection	lower respiratory
+XM1QW	RTI - Respiratory tract infection	not specific
+H060v	Subacute bronchitis unspecified	lower respiratory
+Xa87h	Tracheitis	lower respiratory
+XaDtg	Tracheobronchitis	lower respiratory
+H300.	Tracheobronchitis NOS	lower respiratory
+H053.	Tracheopharyngitis	lower respiratory
+H05z.	Upper respiratory infection NOS	upper respiratory
+XE0Xq	Upper respiratory infection NOS	upper respiratory
+Xa1sb	URTI - Viral upper respiratory tract infection	upper respiratory
+A521.	Varicella pneumonitis	lower respiratory
+X00n7	Viral epiglottitis	upper respiratory
+XaDcV	Viral lower respiratory infection	lower respiratory
+XE0YG	Viral pneumonia	lower respiratory
+H20..	Viral pneumonia (& chest infection)	lower respiratory
+H20y.	Viral pneumonia NEC	lower respiratory
+H20z.	Viral pneumonia NOS	lower respiratory
+XaDcT	Viral respiratory infection	not specific
+X1003	Viral upper respiratory tract infection NOS	upper respiratory
+H302.	Wheezy bronchitis	lower respiratory

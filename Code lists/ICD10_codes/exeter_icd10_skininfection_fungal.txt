@@ -1,0 +1,11 @@
+ICD10	Term_description
+B35	Dermatophytosis
+B36	Other superficial mycoses
+B37.2	Candidiasis of skin and nail
+B38.3	Cutaneous coccidioidomycosis
+B40.3	Cutaneous blastomycosis
+B42.1	Lymphocutaneous sporotrichosis
+B43.0	Cutaneous chromomycosis
+B43.2	Subcutaneous phaeomycotic abscess and cyst
+B45.2	Cutaneous cryptococcosis
+B46.3	Cutaneous mucormycosis

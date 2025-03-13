@@ -1,0 +1,20 @@
+ICD10	Term_description	subgroup
+B25.0	Cytomegaloviral pneumonitis	lower respiratory
+J20.3	Acute bronchitis due to coxsackievirus	lower respiratory
+J20.4	Acute bronchitis due to parainfluenza virus	lower respiratory
+J20.5	Acute bronchitis due to respiratory syncytial virus	lower respiratory
+J20.6	Acute bronchitis due to rhinovirus	lower respiratory
+J20.7	Acute bronchitis due to echovirus	lower respiratory
+J20.8	Acute bronchitis due to other specified organisms	lower respiratory
+J20.9	Acute bronchitis, unspecified	lower respiratory
+J21	Acute bronchiolitis	lower respiratory
+J22	Unspecified acute lower respiratory infection	lower respiratory
+J00	Acute nasopharyngitis [common cold]	upper respiratory
+J02	Acute pharyngitis	upper respiratory
+J03	Acute tonsillitis	upper respiratory
+J04	Acute laryngitis and tracheitis	upper respiratory
+J05	Acute obstructive laryngitis [croup] and epiglottitis	upper respiratory
+J06	Acute upper respiratory infections of multiple and unspecified sites	upper respiratory
+B01.2	Varicella pneumonia	lower respiratory
+B05.2	Measles complicated by pneumonia	lower respiratory
+J12	Viral pneumonia, not elsewhere classified	lower respiratory

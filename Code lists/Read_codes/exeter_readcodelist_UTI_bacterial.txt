@@ -1,0 +1,162 @@
+readcode	term_readcode	subgroup
+K15..	Cystitis	cystitis
+K150.	Acute cystitis	cystitis
+K155.	Recurrent cystitis	cystitis
+K15z.	Cystitis NOS	cystitis
+K190.	Urinary tract infection, site not specified	cystitis
+K1900	Bacteriuria, site not specified	cystitis
+K1902	Post operative urinary tract infection	cystitis
+K1903	Recurrent urinary tract infection	cystitis
+K1905	Urinary tract infection	cystitis
+K190z	Urinary tract infection, site not specified NOS	cystitis
+1AG..	Recurrent urinary tract infections	cystitis
+SP07Q	Catheter-associated urinary tract infection	cystitis
+K104.	Xanthogranulomatous pyelonephritis	pyelonephritis
+K10y.	Pyelonephritis and pyonephrosis unspecified	pyelonephritis
+K10y0	Pyelonephritis unspecified	pyelonephritis
+K10y1	Pyelitis unspecified	pyelonephritis
+K10y2	Pyonephrosis unspecified	pyelonephritis
+K10y3	Pyelonephritis in diseases EC	pyelonephritis
+K10y4	Pyelitis in diseases EC	pyelonephritis
+K10yz	Unspecified pyelonephritis NOS	pyelonephritis
+K154.	Cystitis in diseases EC	cystitis
+K1540	Cystitis in actinomycosis	cystitis
+K1545	Cystitis in gonorrhoea	cystitis
+K154z	Cystitis in diseases EC NOS	cystitis
+K15y.	Other specified cystitis	cystitis
+K15y0	Cystitis cystica	cystitis
+K15yz	Other cystitis NOS	cystitis
+K1904	Chronic urinary tract infection	cystitis
+1J4..	Suspected UTI	cystitis
+L166.	Genitourinary tract infections in pregnancy	cystitis
+L1660	Genitourinary tract infection in pregnancy unspecified	cystitis
+L1661	Genitourinary tract infection in pregnancy - delivered	cystitis
+L1665	Infections of kidney in pregnancy	pyelonephritis
+L1666	Urinary tract infection following delivery	cystitis
+L1668	Urinary tract infection complicating pregnancy	cystitis
+L166z	Genitourinary tract infection in pregnancy NOS	cystitis
+K105.	Chronic infective interstitial nephritis	pyelonephritis
+K10z.	Infection of kidney NOS	pyelonephritis
+K1544	Cystitis in diphtheria	cystitis
+K1548	Cystitis in tuberculosis	cystitis
+K1906	Urosepsis	not specific or other
+A32y3	diphtheritic cystitis	cystitis
+A9811	acute gonococcal cystitis	cystitis
+A9831	chronic gonococcal cystitis	cystitis
+K100.	chronic pyelonephritis	pyelonephritis
+K1000	chronic pyelonephritis without medullary necrosis	pyelonephritis
+K1001	chronic pyelonephritis with medullary necrosis	pyelonephritis
+K1002	chronic pyelitis	pyelonephritis
+K1003	chronic pyonephrosis	pyelonephritis
+K1004	nonobstructive reflux-associated chronic pyelonephritis	pyelonephritis
+K100z	chronic pyelonephritis nos	pyelonephritis
+K101.	acute pyelonephritis	pyelonephritis
+K1010	acute pyelonephritis without medullary necrosis	pyelonephritis
+K1011	acute pyelonephritis with medullary necrosis	pyelonephritis
+K1012	acute pyelitis	pyelonephritis
+K1013	acute pyonephrosis	pyelonephritis
+K1014	emphysematous pyelonephritis	pyelonephritis
+K1015	emphysematous pyelitis	pyelonephritis
+K101z	acute pyelonephritis nos	pyelonephritis
+K213.	prostatocystitis	cystitis
+Kyu50	[x]other chronic cystitis	cystitis
+Kyu51	[x]other cystitis	cystitis
+X30Hj	emphysematous pyelonephritis	pyelonephritis
+X30Hm	emphysematous pyelitis	pyelonephritis
+XE0e0	urinary tract infection, site not specified	cystitis
+Xa8EJ	acute cystitis	cystitis
+XaFwM	recurrent urinary tract infections	cystitis
+XaaZd	catheter-associated urinary tract infection	cystitis
+A9801	Acute gonococcal urethritis	cystitis
+A9821	Chronic gonococcal urethritis	cystitis
+A994.	Nonspecific urethritis	cystitis
+K03T.	Tubulo-interstitial nephritis, not specified as acute or chronic	pyelonephritis
+K08y7	Acute infective interstitial nephritis	pyelonephritis
+K10..	Infections of kidney	pyelonephritis
+K17y.	Other urethritis	cystitis
+K17y0	Urethritis unspecified	cystitis
+K17yz	Other urethritis NOS	cystitis
+K17z.	Urethritis due to non venereal cause NOS	cystitis
+Kyu55	[X]Other urethritis	cystitis
+Kyu58	[X]Urethritis in diseases classified elsewhere	cystitis
+L09y4	Urinary tract infection following abortive pregnancy	cystitis
+L1662	Genitourinary tract infection in pregnancy - delivered with post natal complication	cystitis
+L1663	Genitourinary tract infection in pregnancy - not delivered	cystitis
+L1664	Genitourinary tract infection in pregnancy with postnatal complication	cystitis
+Lyu23	[X]Infections of other parts of urinary tract in pregnancy	cystitis
+Lyu24	[X]Other and unspecified genitourinary tract infection in pregnancy	cystitis
+Lyu61	[X]Other genitourinary tract infections following delivery	cystitis
+Q40y1	Neonatal urinary tract infection	cystitis
+X30Hk	Acute infective interstitial nephritis	pyelonephritis
+X30Hl	Chronic infective interstitial nephritis	pyelonephritis
+X30Ho	Pyonephrosis	pyelonephritis
+X30NV	Infective cystitis	cystitis
+X30NW	Recurrent culture positive cystitis	cystitis
+X30NX	Chronic infective cystitis	cystitis
+X30Ox	Urethritis	cystitis
+X30Oy	Infective urethritis	cystitis
+X30Oz	Gonococcal urethritis	cystitis
+X30P0	Chlamydial urethritis	cystitis
+X30P3	Tuberculous urethritis	cystitis
+X30PX	Lower urinary tract infection	cystitis
+X30PZ	Acute culture positive cystitis	cystitis
+X30Pa	Recurrent culture positive cystitis	cystitis
+XE0dt	Non-venereal urethritis	cystitis
+XE0fD	Infection - kidney	pyelonephritis
+XE0fF	(Chronic pyelonephritis) or (chronic pyonephrosis)	pyelonephritis
+XE0fH	(Acute pyelonephritis) or (acute pyonephrosis)	pyelonephritis
+XE0fX	Acute cystitis	cystitis
+XE0fj	Infection of urinary tract	cystitis
+XE0vw	Genitourinary tract infections in pregnancy	cystitis
+XE0vx	Genitourinary tract infection in pregnancy NOS	cystitis
+XE0yA	Cystitis + pregnancy	cystitis
+XM0sZ	Acute recurrent cystitis	cystitis
+XM1Ox	Cystitis of pregnancy	cystitis
+Xa20b	Acute focal pyelonephritis	pyelonephritis
+Xa7nb	Coliform urinary tract infection	cystitis
+Xa7nc	Escherichia coli urinary tract infection	cystitis
+Xa7nd	Proteus urinary tract infection	cystitis
+Xa7ne	Pseudomonas urinary tract infection	cystitis
+Xa8EK	Chronic cystitis	cystitis
+XaB66	Acute infective cystitis	cystitis
+XaB9F	UTI - urinary tract infection in pregnancy	cystitis
+XaC1c	Urinary tract infection complicating pregnancy	cystitis
+XaDmX	Infective ureteritis	cystitis
+XaZ0c	Urosepsis	not specific or other
+Xaglc	Uncomplicated UTI (urinary tract infection)	cystitis
+K15y2	Abscess of bladder	cystitis
+K1901	Pyuria, site not specified	not specific or other
+K103.	Pyeloureteritis cystica	pyelonephritis
+Kyu10	[X]Other chronic tubulo-interstitial nephritis	pyelonephritis
+K1005	chronic obstructive pyelonephritis	pyelonephritis
+K1006	calculous pyelonephritis	pyelonephritis
+K102.	renal and perinephric abscess	pyelonephritis
+K1020	renal abscess	pyelonephritis
+K1021	perinephric abscess	pyelonephritis
+K1022	renal carbuncle	pyelonephritis
+K102z	renal and perinephric abscess nos	pyelonephritis
+X30Hv	chronic obstructive pyelonephritis	pyelonephritis
+X30Pe	bacteriuria, site not specified	cystitis
+XE0e1	bacteriuria, site not specified	cystitis
+XE2bJ	renal carbuncle	pyelonephritis
+XaY6b	follicular cystitis	cystitis
+A954.	Syphilis of kidney	pyelonephritis
+K0y0.	Late syphilis of kidney	pyelonephritis
+K17..	Periurethritis	cystitis
+K1703	Periurethritis	cystitis
+X309z	Perinephric abscess	pyelonephritis
+X30DH	Drainage of perinephric abscess	pyelonephritis
+X30Hu	Chronic non-obstructive atrophic pyelonephritis	pyelonephritis
+X30JK	Renal tubulo-interstitial disease	pyelonephritis
+X30PA	Reiter's urethritis	cystitis
+X40bB	Drainage of perinephric abscess	pyelonephritis
+XE0di	Pyeloureteritis cystica	pyelonephritis
+XE0fJ	Abscess - renal	pyelonephritis
+XE0fZ	(Cystitis NOS) or (trigonitis)	cystitis
+XaA05	Bullous cystitis	cystitis
+A1601	Tuberculous pyelitis	pyelonephritis
+A1602	Tuberculous pyelonephritis	pyelonephritis
+A78A0	Chlamydial infection of lower genitourinary tract	cystitis
+A78AX	Chlamydial infection of genitourinary tract, unspecified	cystitis
+Ayu4K	[X]Chlamydial infection of genitourinary tract, unspecified	cystitis
+K13y3	Periureteritis	cystitis

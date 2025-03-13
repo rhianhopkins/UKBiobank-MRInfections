@@ -1,0 +1,5 @@
+ICD10	Term_description
+B37.3	Candidiasis of vulva and vagina
+B37.4	Candidiasis of other urogenital sites
+N51.2	Balanitis in diseases classified elsewhere
+N77.1	Vaginitis, vulvitis and vulvovaginitis in infectious and parasitic diseases classified elsewhere

@@ -1,0 +1,410 @@
+readcode	term_readcode
+F4D0.	Cellulitis of eyelids
+F4D14	Cellulitis of eyelid
+H1y51	Cellulitis of vocal cords
+H1y71	Cellulitis of larynx
+J083.	Oral cellulitis and abscess
+J0830	Cellulitis of floor of mouth
+J0831	Oral soft tissue cellulitis unspecified
+J0832	Abscess of oral soft tissue unspecified
+J083z	Oral cellulitis and abscess NOS
+J0851	Cellulitis of lip
+J54..	Cellulitis - anus or rectum
+J540.	Perianal cellulitis
+K2723	Cellulitis of penis
+K2843	Cellulitis of scrotum
+K403.	Acute parametritis and pelvic cellulitis
+K4031	Acute pelvic cellulitis
+K403z	Acute parametritis and pelvic cellulitis NOS
+K404.	Chronic parametritis and pelvic cellulitis
+K4040	Chronic female pelvic cellulitis
+K405.	Parametritis and pelvic cellulitis unspecified
+K4051	Pelvic cellulitis unspecified
+K405z	Parametritis and pelvic cellulitis NOS
+M02..	Cellulitis and abscess of finger and toe
+M020.	Cellulitis and abscess of finger
+M0200	Cellulitis and abscess of finger unspecified
+M020z	Cellulitis and abscess of finger NOS
+M021.	Cellulitis and abscess of toe
+M0210	Cellulitis and abscess of toe unspecified
+M021z	Cellulitis and abscess of toe NOS
+M02z.	Cellulitis and abscess of digit NOS
+M03..	Cellulitis of skin area excluding digits of hand or foot
+M030.	Cellulitis and abscess of face
+M0300	Cellulitis and abscess of cheek
+M0301	Cellulitis and abscess of nose
+M0302	Cellulitis and abscess of chin
+M0303	Cellulitis and abscess of submandibular region
+M0304	Cellulitis and abscess of forehead
+M0305	Cellulitis and abscess of temple region
+M0306	Cellulitis of face
+M030z	Cellulitis and abscess of face NOS
+M031.	Cellulitis and abscess of neck
+M032.	Cellulitis and abscess of trunk
+M0320	Cellulitis and abscess of chest wall
+M0321	Cellulitis and abscess of breast
+M0322	Cellulitis and abscess of back
+M0323	Cellulitis and abscess of abdominal wall
+M0324	Cellulitis and abscess of umbilicus
+M0325	Cellulitis and abscess of flank
+M0326	Cellulitis and abscess of groin
+M0327	Cellulitis and abscess of perineum
+M0328	Cellulitis of trunk
+M032z	Cellulitis and abscess of trunk NOS
+M033.	Cellulitis and abscess of arm
+M0330	Cellulitis and abscess of shoulder
+M0331	Cellulitis and abscess of axilla
+M0332	Cellulitis and abscess of upper arm
+M0333	Cellulitis and abscess of elbow
+M0334	Cellulitis and abscess of forearm
+M033z	Cellulitis and abscess of arm NOS
+M034.	Cellulitis and abscess of hand
+M0340	Cellulitis and abscess of hand unspecified
+M0341	Cellulitis and abscess of wrist
+M034z	Cellulitis and abscess of hand NOS
+M035.	Cellulitis and abscess of buttock
+M036.	Cellulitis and abscess of leg
+M0360	Cellulitis and abscess of hip
+M0361	Cellulitis and abscess of thigh
+M0362	Cellulitis and abscess of knee
+M0363	Cellulitis and abscess of lower leg
+M0364	Cellulitis and abscess of ankle
+M036z	Cellulitis and abscess of leg NOS
+M037.	Cellulitis and abscess of foot
+M0370	Cellulitis and abscess of foot unspecified
+M0371	Cellulitis and abscess of heel
+M0372	Cellulitis in diabetic foot
+M037z	Cellulitis and abscess of foot NOS
+M038.	Cellulitis of external ear
+M03y.	Other specified cellulitis and abscess
+M03y0	Cellulitis and abscess of head unspecified
+M03z.	Cellulitis and abscess NOS
+M03z0	Cellulitis NOS
+M03zz	Cellulitis and abscess NOS
+M08..	Cutaneous cellulitis
+M080.	[X]Cellulitis of finger and toe
+M081.	[X]Cellulitis of other parts of limb
+M082.	Cellulitis of face
+M083.	Cellulitis of trunk
+M084.	[X]Cellulitis of breast
+M085.	Cellulitis of leg
+M086.	Cellulitis of ankle
+M088.	Cellulitis of arm
+M089.	Cellulitis of neck
+M08A.	Cellulitis of axilla
+M08B.	Cellulitis of foot
+M08C.	Cellulitis of toe
+M08y.	[X]Cellulitis of other sites
+A35..	Erysipelas
+K4030	Acute parametritis
+M0...	Skin and subcutaneous tissue infections
+M00..	Carbuncle
+M000.	Carbuncle of face
+M0000	Carbuncle of ear
+M0001	Carbuncle of face (excluding eye)
+M0002	Carbuncle of nasal septum
+M0003	Carbuncle of temple region
+M000z	Carbuncle of face NOS
+M001.	Carbuncle of neck
+M002.	Carbuncle of trunk
+M0020	Carbuncle of chest wall
+M0021	Carbuncle of breast
+M0022	Carbuncle of back
+M0023	Carbuncle of abdominal wall
+M0024	Carbuncle of umbilicus
+M0025	Carbuncle of flank
+M0026	Carbuncle of groin
+M0027	Carbuncle of perineum
+M002z	Carbuncle of trunk NOS
+M003.	Carbuncle of upper arm and forearm
+M0030	Carbuncle of shoulder
+M0031	Carbuncle of axilla
+M0032	Carbuncle of upper arm
+M0033	Carbuncle of elbow
+M0034	Carbuncle of forearm
+M003z	Carbuncle of upper arm and forearm NOS
+M004.	Carbuncle of hand
+M0040	Carbuncle of wrist
+M0041	Carbuncle of thumb
+M0042	Carbuncle of finger
+M004z	Carbuncle of hand NOS
+M005.	Carbuncle of buttock
+M0050	Carbuncle of anus
+M0051	Carbuncle of gluteal region
+M005z	Carbuncle of buttock NOS
+M006.	Carbuncle of leg (excluding foot)
+M0060	Carbuncle of hip
+M0061	Carbuncle of thigh
+M0062	Carbuncle of knee
+M0063	Carbuncle of lower leg
+M0064	Carbuncle of ankle
+M006z	Carbuncle of leg (excluding foot) NOS
+M007.	Carbuncle of foot
+M0070	Carbuncle of foot unspecified
+M0071	Carbuncle of heel
+M0072	Carbuncle of toe
+M007z	Carbuncle of foot NOS
+M00y.	Carbuncle of other specified site
+M00y0	Carbuncle of head (excluding face)
+M00yz	Carbuncle of other specified site NOS
+M00z.	Carbuncle NOS
+M01..	Furuncle - boil
+M010.	Boil of face
+M0100	Boil of ear
+M0101	Boil of face (excluding eye)
+M0102	Boil of nasal septum
+M0103	Boil of temple region
+M0104	Boil of external nose
+M010z	Boil of face NOS
+M011.	Boil of neck
+M012.	Boil of trunk
+M0120	Boil of chest wall
+M0121	Boil of breast
+M0122	Boil of back
+M0123	Boil of abdominal wall
+M0124	Boil of umbilicus
+M0125	Boil of flank
+M0126	Boil of groin
+M0127	Boil of perineum
+M012z	Boil of trunk NOS
+M013.	Boil of upper arm and forearm
+M0130	Boil of shoulder
+M0131	Boil of axilla
+M0132	Boil of upper arm
+M0133	Boil of elbow
+M0134	Boil of forearm
+M013z	Boil of upper arm and forearm NOS
+M014.	Boil of hand
+M0140	Boil of wrist
+M0141	Boil of thumb
+M0142	Boil of finger
+M014z	Boil of hand NOS
+M015.	Boil of buttock
+M0150	Boil of anus
+M0151	Boil of gluteal region
+M015z	Boil of buttock NOS
+M016.	Boil of leg (excluding foot)
+M0160	Boil of hip
+M0161	Boil of thigh
+M0162	Boil of knee
+M0163	Boil of lower leg
+M0164	Boil of ankle
+M016z	Boil of leg (excluding foot) NOS
+M017.	Boil of foot
+M0170	Boil of foot unspecified
+M0171	Boil of heel
+M0172	Boil of toe
+M017z	Boil of foot NOS
+M01y.	Boil of other specified site
+M01y0	Boil of head (excluding face)
+M01yz	Boil of other specified site NOS
+M01z.	Boil NOS
+M01z0	Multiple boils
+M0201	Finger pulp abscess
+M03z1	Abscess NOS
+M05..	Impetigo
+M050.	Impetigo contagiosa unspecified
+M051.	Impetigo contagiosa bullosa
+M052.	Impetigo contagiosa gyrata
+M053.	Impetigo circinata
+M054.	Impetigo neonatorum
+M055.	Impetigo simplex
+M056.	Impetigo follicularis
+M057.	Chronic symmetrical impetigo
+M05z.	Impetigo NOS
+M06..	Pilonidal sinus/cyst
+M060.	Pilonidal cyst with abscess
+M061.	Dermal sinus
+M062.	Pilonidal sinus with abscess
+M063.	Pilonidal sinus without abscess
+M06z.	Pilonidal sinus/cyst NOS
+M07..	Other local infections of skin and subcutaneous tissue
+M072.	Erythrasma
+M073.	Scalp infection
+M07y.	Other specified local infection of skin or subcutaneous tissue
+M07y1	Ecthyma
+M07yz	Infection finger
+M07z.	Infected dermatitis
+M07z0	Infection foot
+M07z1	Infection toe
+M07z2	Infection finger
+M09..	Cutaneous abscess
+M090.	[X]Abscess of face
+M091.	[X]Abscess of neck
+M092.	[X]Abscess of trunk
+M0920	[X]Abscess of buttock
+M0921	[X]Abdominal wall abscess
+M0922	[X]Perineal abscess
+M093.	[X]Abscess of buttock
+M094.	[X]Abscess of limb
+M0940	[X]Abscess of axilla
+M095.	Skin abscess
+M09y.	[X]Abscess of other site
+M0y..	Other specified infections of skin or subcutaneous tissue
+M0z..	Infected sebaceous cyst
+M244.	Folliculitis
+M2440	Folliculitis abscedens et suffodiens
+M2441	Barbers' rash
+M2443	Pustular folliculitis
+M2444	Perifolliculitis
+M244z	Folliculitis NOS
+2Fd..	Finding of Eron severity classification for skin and soft tissue infections
+2Fd0.	Eron class 1 skin and soft tissue infection
+2Fd1.	Eron class 2 skin and soft tissue infection
+2Fd2.	Eron class 3 skin and soft tissue infection
+2Fd3.	Eron class 4 skin and soft tissue infection
+38Gp.	Eron severity classification system for skin and soft tissue infections
+A220.	Cutaneous anthrax
+A2702	Cutaneous listeriosis
+A2712	Cutaneous erysipeloid
+A311.	Cutaneous mycobacterial infections
+A32y4	Cutaneous diphtheria
+A390.	Cutaneous actinomycosis
+A39y1	Cutaneous nocardiosis
+A98yy	Gonococcal cellulitis
+Ayu3S	[X]Staphylococcal infection, unspecified
+F4D12	Furuncle of eyelid
+F4G01	Orbital cellulitis
+F5011	Cellulitis, external ear
+F5014	Erysipelas - otitis externa
+F5017	Impetigo - otitis externa
+Gyu88	[X]Other nonspecific lymphadenitis
+H1y1A	Nasal furuncle
+H1y21	Pharynx or nasopharynx cellulitis
+K1022	Renal carbuncle
+K1703	Periurethral cellulitis
+K2722	Penile carbuncle
+K2802	Cellulitis of seminal vesicle
+K2842	Carbuncle of scrotum
+K4241	Carbuncle of vulva
+K4242	Furuncle of vulva
+K42y0	Carbuncle of vagina
+K42y1	Carbuncle of labium
+M15y0	Staphylococcal scalded skin syndrome
+Myu0.	[X]Infections of the skin and subcutaneous tissue
+Myu01	[X]Other specified local infections of the skin and subcutaneous tissue
+Q47y2	Neonatal skin infection
+A3A6.	Necrotising cellulitis
+F4D10	Furuncle of eyelid
+M070.	Pyogenic infection of skin and subcutis
+M161D	Impetigo herpetiformis
+X00YN	Cellulitis of eyelid
+X00YU	Impetigo of eyelid
+X00hk	Cellulitis of external ear
+X00hm	Cellulitis of pinna
+X20QZ	Oral soft tissue cellulitis
+X500E	Chlamydia infection of skin
+X500J	Bacterial infection of skin and subcutis
+X500K	Non-bullous impetigo
+X500L	Streptococcal impetigo
+X500M	Staphylococcal non-bullous impetigo
+X500O	Scalp folliculitis
+X500P	Staphylococcal folliculitis of scalp
+X500Q	Gram-negative folliculitis
+X500U	Cutaneous abscess
+X500z	Cellulitis of skin
+X5010	Cellulitis of skin area excluding digits of hand or foot
+X5011	Cellulitis of dorsum of hand
+X5012	Cellulitis of palm of hand
+X5013	Necrotising cellulitis
+X5018	Anaerobic cellulitis
+X501E	Cellulitis of leg
+X501J	Site-specific pyogenic infection of skin and subcutis
+X501b	Non-pyogenic bacterial infection of skin
+X501c	Erythrasma
+X501t	Fusobacterium infection of skin
+X501x	Corynebacterium pyogenes infection of skin
+X5020	Moraxella infection of skin
+X50BW	Infected skin ulcer
+X50Kv	Wound cellulitis
+X50LK	Skin graft infection
+X50LN	Infection of skin donor site
+X70HW	Cutaneous erysipeloid
+X70HX	Localised cutaneous erysipeloid
+X70HY	Disseminated cutaneous erysipeloid
+X70Hx	Skin and soft tissue atypical mycobacterial infection
+X70Hy	Cutaneous mycobacterium ulcerans infection
+X70Hz	Cutaneous mycobacterium marinum infection
+X70I2	Cutaneous mycobacterium haemophilium infection
+X70IC	Erysipelas of face
+X70N9	Gonococcal cellulitis
+XE0Qv	Cutaneous mycobacterial infections
+XE0Qy	Cutaneous actinomycosis
+XE0Z7	Abscess of nose (& septum)
+XE0aG	Oral cellulitis and abscess NOS
+XE0eV	Carbuncle of vulva
+XE1AS	Cellulitis and abscess of toe NOS
+XE1AT	Cellulitis and abscess of digit NOS
+XE1AU	Other cellulitis and abscess
+XE1AV	Cellulitis and abscess of cheek
+XE1AW	Cellulitis and abscess of nose
+XE1AX	Cellulitis and abscess of neck
+XE1AY	Cellulitis and abscess of hand excluding digits
+XE1AZ	Cellulitis and abscess of hand unspecified
+XE1Aa	Cellulitis and abscess of leg
+XE1Ab	Cellulitis and abscess of foot excluding toe
+XE1Ac	Cellulitis and abscess of head unspecified
+XE1Ag	Other specified local infection of skin or subcutaneous tissue
+XE1Ai	Other specified local infection of skin and subcutaneous tissue NOS
+XE1Aj	Local infection skin/subcut tissue NOS
+XE1Ak	[X]Cellulitis of finger and toe
+XE1Al	Skin and subcut tissue infection NOS
+XE1BJ	Follicular impetigo
+XE1Bc	(Carbuncle) &/or (boil) or (furuncle)
+XE1Bm	(Cellulitis/abscess: [NOS] or [other]) or (abscess NOS)
+XE1Bo	(Cellulitis/abscess - face) or (cellulitis - lips)
+XE1Bq	Cellulitis - hand
+XE1Bs	Cellulitis (&/or abscess): [buttock] or [perirectal]
+XE1Bu	Cellulitis - foot
+XE1Cq	Folliculitis
+XE2Rl	Cellulitis - toe
+XM0tp	Cellulitis of hand
+XM0tr	Cellulitis of foot
+XM1PT	Superficial bacterial infection of skin
+Xa0Ap	Perinatal skin and subcutaneous infections
+Xa0Ws	Bockhart's impetigo
+Xa0bE	Streptococcal cellulitis
+Xa139	Localised skin infection
+Xa1R2	Female pelvic cellulitis
+Xa2jn	Cellulitis of arm
+Xa3fx	Penile cellulitis/abscess/boil
+Xa3gD	Carbuncle/boil
+Xa3gE	Cellulitis of toe
+Xa3gF	Cellulitis of hand excluding finger
+Xa3gG	Cellulitis of leg, excluding foot
+Xa3gH	Cellulitis of foot excluding toe
+Xa3mw	External ear furuncle drained
+Xa40b	Cellulitis - digit NOS
+Xa7Ht	Cellulitis of heel
+Xa7I2	Periorbital cellulitis
+Xa7ld	Cellulitis of scalp
+Xa83l	Cellulitis of elbow
+Xa86C	Cellulitis of abdominal wall
+Xa8A1	Carbuncle of upper limb
+Xa8A4	Carbuncle of lower limb
+XaB1t	Postoperative wound cellulitis
+XaB1u	Extensive postoperative wound cellulitis
+XaB64	Cellulitis - anus or rectum
+XaB65	Perianal cellulitis
+XaBDy	Cellulitis of axilla
+XaBEE	Cellulitis of neck
+XaBmh	Cellulitis of skin of back
+XaF8F	Preseptal cellulitis
+XaFCr	Cellulitis of thigh
+XaLWv	Nasal furuncle
+XaR2l	Recurrent cellulitis
+XaYO5	Cellulitis of thumb
+XaYOq	Bullous impetigo
+XaYOv	Impetigo herpetiformis
+XaYRx	Bullous staphylococcal impetigo
+XaaCy	Eron severity classification system for skin and soft tissue infections
+XaaD4	Finding of Eron severity classification for skin and soft tissue infections
+XaaD5	Eron class 1 skin and soft tissue infection
+XaaD6	Eron class 2 skin and soft tissue infection
+XaaD7	Eron class 3 skin and soft tissue infection
+XaaHN	Eron class 4 skin and soft tissue infection
+73031	Drainage of abscess of external ear
+F506.	Abscess of external ear
+J0850	Abscess of lip
+X00hj	Abscess of external ear
+X00hn	Abscess of pinna
